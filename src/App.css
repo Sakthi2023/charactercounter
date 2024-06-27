@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.character-counter {
+  display: inline-block;
+  text-align: left;
+}
+
+.character-counter textarea {
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.character-counter p {
+  margin-top: 10px;
+  font-weight: bold;
+}
